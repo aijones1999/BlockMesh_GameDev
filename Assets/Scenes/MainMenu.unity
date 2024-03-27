@@ -515,6 +515,16 @@ PrefabInstance:
       propertyPath: m_text
       value: Abby Jones
       objectReference: {fileID: 0}
+    - target: {fileID: 3062724186553635753, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: runSpeed
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3062724186553635753, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: walkSpeed
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4174535894395305454, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
       propertyPath: m_LocalPosition.x
