@@ -535,6 +535,11 @@ PrefabInstance:
       propertyPath: m_RenderPostProcessing
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2968172247879560171, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: gameState
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3062724186553635753, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
       propertyPath: runSpeed
@@ -598,6 +603,16 @@ PrefabInstance:
     - target: {fileID: 4174535894395305454, guid: 32d592d6c97ad6d46b305107e62d4aee,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5578394999067828418, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: sceneToLoad
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5578394999067828418, guid: 32d592d6c97ad6d46b305107e62d4aee,
+        type: 3}
+      propertyPath: currentSceneIndex
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6578302502789273310, guid: 32d592d6c97ad6d46b305107e62d4aee,
